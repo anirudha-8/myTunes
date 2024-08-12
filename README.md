@@ -6,7 +6,7 @@
 
 This project is a fully responsive music website designed to showcase music collections, offer streaming options, and promote exclusive content.
 
-## Link -> **[View Project](#)**
+## Link -> **[View Project](https://anirudha-8.github.io/myTunes/)**
 
 ## Project Overview
 
